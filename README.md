@@ -1,6 +1,6 @@
 # Eldritch Origins: Races of the Veil
 
-[![Modpack Banner]([https://raw.githubusercontent.com/ItsMeRevID/Eldritch-Origins-Races-of-the-Veil/refs/heads/main/assets/image.jpg)](link-to-your-banner)
+[![Modpack Banner]([https://raw.githubusercontent.com/ItsMeRevID/Eldritch-Origins-Races-of-the-Veil/refs/heads/main/assets/image.jpg)
 
 **A fantasy RPG experience where your race defines your destiny.**
 
