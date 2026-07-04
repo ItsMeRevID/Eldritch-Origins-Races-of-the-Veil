@@ -64,7 +64,7 @@ Your race is not cosmetic — it is your origin, your power, and your destiny.
 ## Links
 
 - [CurseForge Page](#)
-- [Discord Community](#https://discord.gg/A4RPzhWbZj)
+- [Discord Page](https://discord.gg/A4RPzhWbZj)
 - [Issue Tracker](#)
 
 ---
